@@ -4,6 +4,6 @@
 
 ## https://kbouzidi.com
 
-### you can check the related article <a href="https://kbouzidi.com/real-time-events-with-laravel-and-soketi">Laravel & React Native File Upload
+### you can check the related article <a href="https://kbouzidi.com/laravel-and-react-native-file-upload">Laravel & React Native File Upload
 
 </a>
